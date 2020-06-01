@@ -20,7 +20,7 @@ BIGTREETECH SKR MINI V1.1 (https://github.com/bigtreetech/BIGTREETECH-SKR-MINI-V
 ## Bed:
  - Original Prusa MK42
  - 210mm x 210mm
- - Probe:
+ - Probe: Inductive
  
 ## Power Supply:
 - 12V
