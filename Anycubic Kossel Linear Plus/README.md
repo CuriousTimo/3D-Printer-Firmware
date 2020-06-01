@@ -1,6 +1,6 @@
 # Anycubic Kossel Linear Plus
 
-Marlin 2.0.5.3 ()
+Marlin 2.0.5.3
 
 ## Board
 BIGTREETECH SKR V1.3 (https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
