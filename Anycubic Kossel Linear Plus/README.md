@@ -19,7 +19,7 @@ BIGTREETECH SKR V1.3 (https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
  
 ## Bed:
  - Anycubic Ultrabase 
- - Φ230 x 300mm
+ - Φ230mm x 300mm
  - Probe: BLTouch
  
 ## Power Supply:
