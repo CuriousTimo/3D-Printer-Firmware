@@ -182,7 +182,7 @@
 // set SDCARD_CONNECTION form 'ONBOARD' to 'LCD' and use an external SD (connected to LCD)
 #define HAS_ONBOARD_SD
 #ifndef SDCARD_CONNECTION
-  #define SDCARD_CONNECTION              ONBOARD
+  #define SDCARD_CONNECTION              LCD
 #endif
 
 #if SD_CONNECTION_IS(LCD)
