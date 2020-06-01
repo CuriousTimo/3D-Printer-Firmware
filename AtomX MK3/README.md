@@ -1,6 +1,24 @@
 # Marlin Firmware for AtomX MK3 3D Printer
+Marlin 2.0.5.3
 
-- CPU: ATmega2560
-- Board: RAMPS v1.4
-- Hotend: E3D v6 Clone
-- Hotbed: 120 x 120
+## Board
+RAMPS v1.4
+
+## CPU:
+ - ATmega2560
+
+## Drivers:
+ - X: DRV8825
+ - Y: DRV8825
+ - Z: DRV8825
+ - E: DRV8825
+ 
+## Hotend:
+ - E3D v6 Clone
+ 
+## Bed:
+ - 120 x 120 x 180mm
+ - Probe: Inductive
+ 
+## Power Supply:
+- 12v
