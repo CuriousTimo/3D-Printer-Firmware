@@ -17,7 +17,7 @@ RAMPS v1.4
  - E3D v6 Clone
  
 ## Bed:
- - 120 x 120 x 180mm
+ - 120mm x 120mm x 180mm
  - Probe: Inductive
  
 ## Power Supply:
